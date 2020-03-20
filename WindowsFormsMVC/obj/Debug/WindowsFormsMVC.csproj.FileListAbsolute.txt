@@ -1,0 +1,20 @@
+C:\Users\Nikola\Desktop\MVC\WindowsFormsMVC\WindowsFormsMVC\bin\Debug\WindowsFormsMVC.exe.config
+C:\Users\Nikola\Desktop\MVC\WindowsFormsMVC\WindowsFormsMVC\bin\Debug\WindowsFormsMVC.exe
+C:\Users\Nikola\Desktop\MVC\WindowsFormsMVC\WindowsFormsMVC\bin\Debug\WindowsFormsMVC.pdb
+C:\Users\Nikola\Desktop\MVC\WindowsFormsMVC\WindowsFormsMVC\obj\Debug\WindowsFormsMVC.csprojAssemblyReference.cache
+C:\Users\Nikola\Desktop\MVC\WindowsFormsMVC\WindowsFormsMVC\obj\Debug\WindowsFormsMVC.Properties.Resources.resources
+C:\Users\Nikola\Desktop\MVC\WindowsFormsMVC\WindowsFormsMVC\obj\Debug\WindowsFormsMVC.csproj.GenerateResource.cache
+C:\Users\Nikola\Desktop\MVC\WindowsFormsMVC\WindowsFormsMVC\obj\Debug\WindowsFormsMVC.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\Desktop\MVC\WindowsFormsMVC\WindowsFormsMVC\obj\Debug\WindowsFormsMVC.exe
+C:\Users\Nikola\Desktop\MVC\WindowsFormsMVC\WindowsFormsMVC\obj\Debug\WindowsFormsMVC.pdb
+C:\Users\Nikola\Desktop\MVC\WindowsFormsMVC\WindowsFormsMVC\obj\Debug\WindowsFormsMVC.Views.Form1.resources
+C:\Users\Nikola\Desktop\WinForms\16.WinForm MVC\WindowsFormsMVC\bin\Debug\WindowsFormsMVC.exe.config
+C:\Users\Nikola\Desktop\WinForms\16.WinForm MVC\WindowsFormsMVC\bin\Debug\WindowsFormsMVC.exe
+C:\Users\Nikola\Desktop\WinForms\16.WinForm MVC\WindowsFormsMVC\bin\Debug\WindowsFormsMVC.pdb
+C:\Users\Nikola\Desktop\WinForms\16.WinForm MVC\WindowsFormsMVC\obj\Debug\WindowsFormsMVC.csprojAssemblyReference.cache
+C:\Users\Nikola\Desktop\WinForms\16.WinForm MVC\WindowsFormsMVC\obj\Debug\WindowsFormsMVC.Properties.Resources.resources
+C:\Users\Nikola\Desktop\WinForms\16.WinForm MVC\WindowsFormsMVC\obj\Debug\WindowsFormsMVC.Views.Form1.resources
+C:\Users\Nikola\Desktop\WinForms\16.WinForm MVC\WindowsFormsMVC\obj\Debug\WindowsFormsMVC.csproj.GenerateResource.cache
+C:\Users\Nikola\Desktop\WinForms\16.WinForm MVC\WindowsFormsMVC\obj\Debug\WindowsFormsMVC.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\Desktop\WinForms\16.WinForm MVC\WindowsFormsMVC\obj\Debug\WindowsFormsMVC.exe
+C:\Users\Nikola\Desktop\WinForms\16.WinForm MVC\WindowsFormsMVC\obj\Debug\WindowsFormsMVC.pdb
